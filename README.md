@@ -26,7 +26,7 @@ This is a limitation of Telegram's API and cannot be bypassed.
 - Stores metadata in SQLite database
 - Exports data to Excel spreadsheet
 - Real-time monitoring with customizable intervals
-- Timestamp conversion to Swedish time (UTC+2)
+- Timestamp is set to (UTC+2)
 - Maintains record of previously downloaded stories
 - Resume capability
 - Automatic retry mechanism
