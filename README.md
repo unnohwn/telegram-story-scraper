@@ -112,7 +112,7 @@ The script:
 SQLite database containing:
 - `user_id`: Telegram user ID of the story creator
 - `story_id`: Unique story identifier
-- `timestamp`: When the story was posted (Swedish time)
+- `timestamp`: When the story was posted (UTC+2)
 - `filename`: Local filename of the downloaded media
 
 ### Excel Export (stories_info.xlsx)
