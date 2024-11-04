@@ -14,11 +14,10 @@ ____________________   _________ _________
 ## Important Note About Story Access ⚠️
 
 Due to Telegram API restrictions, this script can only access stories from:
-- Users who are in your friends list (mutual contacts)
-- Users who have added you as a contact
+- Users you have added to your friend list
 - Users whose privacy settings allow you to view their stories
 
-This is a limitation of Telegram's API and cannot be bypassed. The script will only be able to scrape stories from users with whom you have a mutual friendship connection.
+This is a limitation of Telegram's API and cannot be bypassed.
 
 ## Features 🚀
 
@@ -156,7 +155,6 @@ The script includes:
 
 ## Limitations ⚠️
 
-- Can only access stories from mutual friends
 - Subject to Telegram's rate limits
 - Stories must be currently active (not expired)
 - Media download size limits apply as per Telegram's restrictions
