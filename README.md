@@ -2,6 +2,7 @@
 
 A Python script that allows you to automatically scrape and download stories from your Telegram friends using the Telethon library. The script continuously monitors and saves both photos and videos from stories, along with their metadata.
 
+<a href="https://www.buymeacoffee.com/unnohwn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <div align="left">
   <img src="Screenshot TGSS.png" alt="Telegram Story Scraper Interface" width="800"/>
   <p><i>TGSS - Main Interface</i></p>
