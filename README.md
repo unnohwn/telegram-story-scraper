@@ -111,9 +111,9 @@ SQLite database containing:
 - `timestamp`: When the story was posted (UTC+2)
 - `filename`: Local filename of the downloaded media
 
-### Excel Export (stories_info.xlsx)
+### CSV and Excel Export (stories_export.csv/xlsx)
 
-An Excel file containing the same information as the database, useful for:
+Export file containing the same information as the database, useful for:
 - Easy viewing of story metadata
 - Filtering and sorting
 - Data analysis
